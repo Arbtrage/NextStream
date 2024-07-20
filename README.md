@@ -1,6 +1,10 @@
 ### NextStream
 
-![diagram-export-20-07-2024-00_25_02](https://github.com/user-attachments/assets/8dabd34d-dc31-46f5-8652-99d1daaac1cd)
+
+![diagram-export-20-07-2024-12_50_16](https://github.com/user-attachments/assets/9bf72f35-a859-4deb-9440-b736d7dd080b)
+
+
+
 
 
 
